@@ -1,6 +1,8 @@
 <h1 align="center"> Iké, The One Who Waits</h1>
 <p align="center"> Admin of SNAZpedia & computer software developer <br>I play a few games at times, but I'm mainly an artist and programmer.</p>
-<p align="center"> <img src=https://github-profile-trophy.vercel.app/?username=Vetpetmon&theme=matrix&column=8"%20class="center"> </p>
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=Vetpetmon&theme=matrix&column=8title=MultiLanguage,Experience,Commit" class="center"> 
+</p>
 
 
 ---
