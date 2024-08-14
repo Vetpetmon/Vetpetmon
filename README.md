@@ -4,6 +4,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Vetpetmon&theme=matrix&column=8title=MultiLanguage,Experience,Commit" class="center"> 
 </p>
 
+<p align="center"> I like clean code. I like it readable. I think that's the most important thing I can do in my line of work. (That's just a long way of saying I simplify things very often in other repos) </p>
 
 ---
 
