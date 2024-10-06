@@ -28,7 +28,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-plain.svg" title="Firefox"  alt="Mozilla Firefox" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu 22"  alt="Ubuntu 22" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Pop!_OS"  alt="Linux: Pop_OS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows (10)"  alt="Windows (10)" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows (10)"  alt="Windows (11)" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="iOS & iPad OS"  alt="iOS & iPad OS" width="40" height="40"/>&nbsp;
 </div>
 
