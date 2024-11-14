@@ -1,10 +1,10 @@
-<h1 align="center"> Iké, The One Who Waits</h1>
+<h1 align="center"> Modrome</h1>
 <p align="center"> Admin of SNAZpedia & computer software developer <br>I play a few games at times, but I'm mainly an artist and programmer.</p>
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=Vetpetmon&theme=matrix&column=8title=MultiLanguage,Experience,Commit" class="center"> 
 </p>
 
-<p align="center"> I like clean code. I like it readable. I think that's the most important thing I can do in my line of work. (That's just a long way of saying I simplify things very often in other repos) </p>
+<p align="center"> I can't believe I had to switch back to Windows because Linux for desktops isn't usable 30+ years later. </p>
 
 ---
 
