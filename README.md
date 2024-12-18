@@ -1,10 +1,10 @@
 <h1 align="center"> Modrome</h1>
-<p align="center"> Admin of SNAZpedia & computer software developer <br>I play a few games at times, but I'm mainly an artist and programmer.</p>
+<p align="center"> Admin of SNAZpedia & computer software developer.</p>
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=Vetpetmon&theme=matrix&column=8title=MultiLanguage,Experience,Commit" class="center"> 
 </p>
 
-<p align="center"> I can't believe I had to switch back to Windows because Linux for desktops isn't usable 30+ years later. </p>
+<p align="center"> <i>"Rome wasn't modded in a day."</i> </p>
 
 ---
 
@@ -32,6 +32,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="iOS & iPad OS"  alt="iOS & iPad OS" width="40" height="40"/>&nbsp;
 </div>
 
+---
+
+<div align="center">
+
+[![Modrome GitHub stats](https://github-readme-stats.vercel.app/api?username=vetpetmon&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vetpetmon&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 (GitHub Readme Stats may not be accurate, Java and GML are my most used languages, but it won't read what I do on organizations.)
+</div>
