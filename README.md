@@ -39,6 +39,4 @@
 [![Modrome GitHub stats](https://github-readme-stats.vercel.app/api?username=vetpetmon&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vetpetmon&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-(GitHub Readme Stats may not be accurate, Java and GML are my most used languages, but it won't read what I do on organizations.)
 </div>
